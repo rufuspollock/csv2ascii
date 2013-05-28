@@ -3,8 +3,22 @@ Convert csv files to nicely formatted ascii tables.
 I also recommend checking out the related [Data Converters
 project](http://okfnlabs.org/dataconverters/).
 
-TODO
-====
+## Install
+
+Just grab the raw python script:
+
+<https://raw.github.com/rgrp/csv2ascii/master/csv2ascii.py>
+
+And start using it:
+
+    # make it runnable
+    chmod a+x csv2ascii.py
+
+    # read the instructions
+    csv2ascii.py -h
+
+
+## TODO
 
 1. allow output_width of 0 meaning use width necessary to fit all rows on one
    line
