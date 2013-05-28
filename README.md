@@ -1,5 +1,8 @@
 Convert csv files to nicely formatted ascii tables.
 
+I also recommend checking out the related [Data Converters
+project](http://okfnlabs.org/dataconverters/).
+
 TODO
 ====
 
